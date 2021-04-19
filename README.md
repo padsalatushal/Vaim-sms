@@ -41,7 +41,11 @@
  
 > `git clone https://github.com/Trushal2004/Vaim-sms`
  
-> `cd Vaim-sms`  
+> `cd Vaim-sms` 
+>  
+
+ 
+
  
 > `bash Vaim-sms.sh`
 
