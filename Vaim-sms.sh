@@ -6,8 +6,6 @@
 #if you use without giving me credit then you won't became a programmer so please respect
 
 
-
-
 #==========================================================================================================================
 #==========================================================================================================================
 
@@ -23,9 +21,9 @@ printf "\e[1;91m       \___/  (____  /__|__|_|  /    \e[0m\e[1;93m     /____  >_
 printf "\e[1;91m                   \/         \/     \e[0m\e[1;93m          \/      \/     \/  \e[0m\n "
 
 printf "\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By Padsala Trushal \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]                                              \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           By Padsala Trushal                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+
 printf "\n"
 printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
 printf "         testing in an authorized simulated cyberattack\n"
@@ -42,7 +40,7 @@ upload() {
 
 clear
 printf "[+] HEY BRO PLEASE WAIT ......................... \n"
-printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'padsalatrushal@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/VaimpierOfficial \n"
+printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'padsalatrushal@gmail.com' \n 
 sleep 7
 clear
 cd
