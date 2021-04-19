@@ -39,7 +39,7 @@
  
 > `apt update && apt upgrade`
  
-> `git clone https://github.com/VaimpierOfficial/Vaim-sms`
+> `git clone https://github.com/Trushal2004/Vaim-Sms`
  
 > `cd Vaim-sms`  
  
