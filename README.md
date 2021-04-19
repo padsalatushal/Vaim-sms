@@ -42,6 +42,8 @@
 > `git clone https://github.com/Trushal2004/Vaim-sms`
  
 > `cd Vaim-sms`  
+
+> `chmod +x *` 
  
 > `bash Vaim-sms.sh`
 
