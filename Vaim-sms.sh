@@ -42,12 +42,12 @@ upload() {
 
 clear
 printf "[+] HEY BRO PLEASE WAIT ......................... \n"
-printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'sonuv0085@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/VaimpierOfficial \n"
+printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'padsalatrushal@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/VaimpierOfficial \n"
 sleep 7
 clear
 cd
 rm -rf Vaim-sms
-git clone https://github.com/VaimpierOfficial/Vaim-sms
+git clone https://github.com/Trushal2004/Vaim-sms
 cd Vaim-sms
 chmod +x *
 clear
