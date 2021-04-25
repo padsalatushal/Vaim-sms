@@ -1,5 +1,5 @@
 # Vaim-sms
-<img src="vaim-sms.png"><br>
+<img src="Vaim-sms.png"><br>
 
 
 - What is Vaim-sms ?
